@@ -1,4 +1,4 @@
-!
+[Adblock Plus 2.0]
 ! Blocking Firebase crash reporting is quite problematic:
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/1334#issuecomment-319302543
 ! ||app-measurement.com^
